@@ -2,6 +2,10 @@ body {
   margin: 0;
   padding: 0;
   color: #333;
+  background-image: url('https://user-images.githubusercontent.com/43012445/105452071-411e4880-5c43-11eb-8ae2-4de61f310bf9.gif');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
 }
 
 #app {
